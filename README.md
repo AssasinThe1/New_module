@@ -1,2 +1,1 @@
-# New_module
-My very first module
+This is my first directory prolly idk anymore hahahahaha
